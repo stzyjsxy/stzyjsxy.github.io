@@ -1,0 +1,52 @@
+body{background:#b8e7f7 url(../images/50.png)0 0 no-repeat;}
+.content{
+	height:500px;
+	background:rgba(255,255,255,1);}
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.content h3{
+	      width:450px;
+          border:1px solid;  
+          float:left;
+          font-size:16px; 
+          boeder-top:1px solid #888888;}
+.content .bottom{
+        /* border:1px solid;  */
+         width: 210px;   
+         height:50px; 
+         float:left;
+         font-size:16px;  }
+.content .bottom>hr>a{
+	width:450px;
+	border:1px solid;
+	  text-decoration:none;
+      text-color:#FF8C00;}
