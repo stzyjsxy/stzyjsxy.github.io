@@ -1,0 +1,144 @@
+body
+{
+	background:url(../pic/bg_pattern.jpg) repeat;
+	font-family:华文新魏;
+	font-size:12px;
+	color:#666;
+	margin: 0px auto;
+}
+
+
+#header
+{
+	width:880px;
+	height:20px;
+	margin:0px auto;
+	padding:20px 0px;
+	font-size:18px;
+	font-weight:bold;
+	border:0px solid black;
+	
+}
+
+#ha{width:250px;
+	border:0px solid black;
+	position:absolute;
+	float:left;
+	}
+
+#haha{width:150px;
+	border:0px solid red;
+	margin:-13px 0 0 780px;
+	}
+
+.guanbi{font-size:46px;
+	width:45px;
+	height:40px;
+	border:0px solid white;
+	line-height:40px;
+	float:left;
+	d`isplay:none;
+}
+
+
+.neihe{font-size:18px;
+	width:57px;
+	height:36px;
+	border:0px solid white;
+	line-height:36px;
+	float:left;
+	padding-left:-3px;
+	d`isplay:none;
+}
+
+
+
+.accordion
+{
+	width:1200px;
+	margin:0px auto;
+	list-style:none;
+	padding:0px;
+}
+
+
+.accordion img, .accordion .caption
+{
+	position:absolute;
+	left:-9999px;
+}
+
+
+#navigation
+{
+	width:200px;
+	height:25px;
+	margin:60px auto 0px;
+}
+
+
+#navigation a
+{
+	background-color:#F1F1F1;
+	text-decoration:none;
+	color:#999;
+	padding:5px 10px;
+	margin:0px 4px;
+	border:#FFF solid 2px;
+}
+
+
+.accordion
+{
+	position:relative;
+	overflow:hidden;
+}
+
+.accordion .panel
+{
+	background-color:#000;
+	background-image:url(../pic/preloader.gif);
+	background-repeat:no-repeat;
+	background-position:center center;
+	position:absolute;
+	overflow:hidden;
+}
+
+
+.accordion .preloader
+{
+	background:url(../pic/preloader2.gif) no-repeat;
+	width:62px;
+	height:14px;
+	position:absolute;
+	z-index:15;
+}
+
+
+.accordion .caption
+{
+	overflow:hidden;
+	position:absolute;
+	z-index:20;border:0px solid red;
+	
+}
+
+
+.accordion .caption p
+{
+	color:black;
+	font-size:16px;
+	margin:0px;
+	padding:0px;
+	font-family:华文新魏;
+
+}
+
+
+.accordion .caption p a
+{
+	color:white;
+	text-decoration:none;
+	font-family:华文琥珀;
+}
+

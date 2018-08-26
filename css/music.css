@@ -1,0 +1,98 @@
+*{margin:0;padding:0;}
+#welcome{text-align:center;}
+#nav{width:1028px;height:70px;
+margin:0 auto;border:0px solid blue;
+position:fixed;top:0;left:10.7%;b-ackground:#555;line-height:70px;}
+#nav_top{position:absolute;top:0;left:10.7%;display:none}
+
+#longjuanfen{position:fixed;top:10px;left:190px;}
+
+#logo{float:left;font-size:34px;color:#dfdddd;border:0px solid white;margin:0px 5px 0px 105px;}
+
+#img{position:fixed;top:0;left:200px;border:0px solid white;}
+
+#nav1{float:right;margin:-55px 40px 0 250px;border:0px solid white;width:710px;height:35px;line-height:35px;font-size:20px;}
+
+ul{list-style-type:none;}
+
+.inline{display:inline;padding:0 20px;border-left:1px solid black;border-right:1px solid black;border-color:#999;border-width:2px;}
+
+#nav1 ul li a{text-decoration:none;color:white;background:#171718;b-ox-shadow:10px 10px 10px rgba(0,0,0,0.5);}
+#nav1 ul li a:hover{text-decoration:none;color:teal;box-shadow:5px 5px 5px rgba(0,0,0,0.5);}
+
+#below{display:none;position:absolute;
+	top:42px;left:420px;}
+
+#below2{display:none;position:absolute;
+	top:40px;left:825px;}
+
+#up{border:0 solid red;position:fixed;
+	top:40px;left:1120px;}
+#down{border:0 solid red;position:fixed;
+	top:10px;left:1120px;}
+
+#top{width:1024px;height:250px;
+margin:74px auto 0px auto;border:0px solid black;
+text-align:center;background:green;}
+
+#adv{position:absolute;width:300px;height:248px;border:0px solid black;background:red;float:right;margin-right:50px;}
+
+#advl{width:50px;height:100px;border:0px solid black;position:fixed;top:60%;left:0px;text-align:center;line-height:20px;b-ackground:#999;display:black;}
+.advlw{position:fixed;top:70%;left:0%;text-align:center;line-height:13px;}
+
+#advl img{position:fixed;top:55%;left:0px;width:250px;height:250px}
+#nol{border:1px solid black;position:fixed;top:58%;left:210px;display:black;}
+#nol a{color:black;text-decoration:none;}
+#advr{width:250px;height:200px;border:0px solid black;position:fixed;top:65%;left:80%;text-align:center;line-height:60px;background:green;display:black;}
+.advrw{position:fixed;top:65%;left:80%;text-align:center;line-height:80px;}
+
+#nor{border:1px solid black;background:blue;position:fixed;top:65%;left:79%;display:black;}
+#nor a{color:black;text-decoration:none;}
+
+#zw{background:white;width:1024px;height:695px;
+margin:0 auto;border:0px solid yellow;
+}
+
+
+#tr1,#tr2,#tr3{margin:5px 15px;border:0px dotted #333;width:300px;height:220px;line-height:23px;padding-top:0px;float:left;}
+
+#tr1 img{width:300px;height:220px;float:left;}
+#tr11,#tr22,#tr33{position:absolute;width:300px;height:220px;float:left;display:none}
+#tr2 img{width:300px;height:220px;float:left;}
+#tr3 img{width:300px;height:220px;float:left;}
+
+#tr_music{margin:5px 20px;border:7px dotted #333;width:990px;height:170px;line-height:23px;}
+#tr_1{border:0px dotted #333;width:594px;height:170px;float:right;}
+#tr_music img{width:200px;height:170px;line-height:200px;float:left}
+#newss{overflow:hidden;height:170px;width:540px;background:white;padding-left:10px;} 
+ #newss a{text-decoration: none;color:black;font-size:13px}
+#newss a:hover{text-decoration:none;color:red;
+	text-shadow:9px 9px 9px rgba(0,0,0,0.5);}
+#newss a:active{text-decoration:none;color:#999;
+	border:1px black dotted;
+	text-shadow:9px 9px 9px rgba(0,0,0,0.5);}
+
+#bayi1,#bayi2,#bayi3{position:absolute;border:0px solid black;width:300px;height:50px;margin-top:90px;float:left;text-align:left;font-size:14px;font-family:楷体;display:none}
+#bayi1 a{color:yellow;text-decoration:none}
+#bayi2 a{text-decoration:none}
+#bayi3 a{color:white;text-decoration:none}
+#sui{color:#333;font-size:16px;}
+
+#tr_dy{margin:250px 0px 0px 20px;width:800px;height:127px;border:0px dotted black;padding-top:6px}
+
+#tr_dy img{width:400px;height:107px;}
+
+#bq{width:1024px;height:30px;
+margin:0 auto;border:0px solid black;
+text-align:center;line-height:30px;b-ackground:blue;font-family:华文新魏;font-size:14px;color:#333;}
+
+#clude{width:1024px;height:450px;border:0px solid black;}
+#ttop{margin:0px;width:406px;height:45px;border:0px solid black;line-height:50px;font-family:华文新魏;font-size:18px;color:#333;
+}
+#ttop a{font-family:华文新魏;font-size:18px;color:#333;text-decoration:none}
+
+#zzww{margin:0 auto;width:1024px;height:450px;border:0px solid red;background:#fff;color:#222}
+
+
+
+

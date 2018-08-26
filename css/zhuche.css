@@ -1,0 +1,147 @@
+#head{width:1315px;height:63px;
+	border:0px solid black;
+	margin:-8px;
+	background-color:#354052;
+	}
+#du{width:36px;height:35px;
+	border:0px solid white;
+font-family: "叶根友毛笔行书2.0版";
+	font-size:33px;color:#f20;
+	float:left;
+	margin-left:162px;
+	margin-top:10px;}
+#hnav{width:250px;height:30px;
+	border:0px solid white;
+	margin-top:13px;
+	float:left;
+font-family: "Microsoft YaHei";
+	font-size:25px;color:white;
+	}
+#daohang{margin-left:105px;}
+
+#daohang li{margin-top:17px;
+font-family: "Microsoft YaHei";
+	font-size:18px;
+	list-style-type:none;
+	float:left;
+	width:330px;height:47px;
+	text-align:center;
+	line-height:50px;
+border-left: 0px solid #d6d6d6;
+    }
+.first-child{border-color: #16a4fa;
+	background: #16a4fa;
+	color:white;
+	border-top-left-radius: 8px;
+    border-bottom-left-radius: 6px;
+	border-top: 2px solid rgb( 22, 164, 250 );
+	box-shadow:3px 3px 3px rgba(0,0,0,0.2)}
+.child{border-color: #F0F0F0;
+	background: #F0F0F0;
+	color:#444;
+	border-top: 2px solid rgb( 214, 214, 214 );
+	box-shadow:3px 3px 3px rgba(0,0,0,0.2);}
+.last-child{
+	background: #F0F0F0;
+	color:#444;
+border-radius: 0 8px 8px 0;
+border-color: #F2F2F2;
+	border-top: 2px solid rgb( 214, 214, 214 );
+	box-shadow:3px 3px 3px rgba(0,0,0,0.2);
+    }
+#zhongbu{border:1px solid rgb( 214, 214, 214 );
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:115px;
+	width:1000px;height:500px;
+	font-family:"隶书";
+	font-size:22px;size:15;
+	color:black;background: #F0F0F0;
+	border-radius:8px;
+	text-align:center;}
+#zuo{border:0px solid black;
+	width:520px;height:400px;
+	font-size:15px;color:#aaa;
+	float:left;
+font-family: "Microsoft YaHei";
+	margin:50px 0 0 110px;
+	letter-spacing:0px;}
+#zhanghao{font-family: "Microsoft YaHei";
+	color:#505156;
+	font-size:18px;size:15;
+	float:left;
+	margin-top:50px;
+	margin-left:60px;}
+#zh{
+	margin-top:47px;
+	margin-left:20px;
+	float:left;}
+#zhid{width:330px;height:30px;
+	font-size:18px;
+	color:blue;float:left;
+	
+	font-family:"黑体";}
+#mima{font-family: "Microsoft YaHei";border:0px solid black;
+	color:#505156;
+	font-size:18px;size:15;
+	float:left;
+	margin-top:50px;
+	margin-left:60px;}
+#mm{border:0px solid black;
+	margin-top:47px;
+	margin-left:18px;
+	width:334px;float:left;
+	height:36px;
+	}
+#mmid{width:330px;height:30px;
+	font-size:24px;
+	color:black;
+	text-align:center;
+	}
+#zddl{border:0px solid black;
+	flaot:left;
+	width:120px;height:30px;
+	margin-left:90px;
+	margin-top:190px;}
+#wjmm{border:0px solid black;
+	flaot:left;
+	width:70px;height:30px;
+	margin-left:385px;
+	margin-top:-32px;}
+#hr{width:400px;
+border-top:1px solid #dddddd;
+margin-left:55px;
+margin-top:47px;
+margin-bottom:30px;}
+#you{border:0px solid black;
+	width:350px;height:50px;
+	float:right;
+	margin-top:80px;
+	font-size:16px;color:#aaa;
+font-family:"Microsoft YaHei";}
+#dot{border:0px solid black;
+	width:25px;
+	font-size:46px;}
+.l{color:#f0f0f0;}
+#denglu{border:0px solid black;
+	height:35px;
+	
+	}
+#denluu{border:0px solid black;width:100px;color:white;
+	height:35px;
+	font-size:17px;
+	background: #16a4fa;
+	margin-left:-190px;
+	margin-top:-5px;
+	border-radius:4px;}
+#hnav a{color:white;
+	text-decoration:none;
+	}
+#zuo a{color:#16a4fa;text-decoration:none;}
+#you a{color:#16a4fa;text-decoration:none;}
+#foot{text-align:center;
+	margin-top:50px;}
+#foot a{color:#000;text-decoration:none;}
+#wjmm a{color:#333;}
+#wjmm a:hover{text-decoration:underline;}
+#denluu a:hover{color:red}

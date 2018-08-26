@@ -1,0 +1,9 @@
+
+	.canvas-box{position: fixed;left: 0;top: 0;z-index: -1;}
+	.box{position: absolute;z-index: 10;color:#fff;font-family: Arial;left: 50%;top:50%;transform: translate(-50%,-50%);text-align: center;}
+
+	
+
+
+
+

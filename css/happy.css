@@ -1,0 +1,82 @@
+body{background:url(../pic/bg_pattern.jpg) repeat;
+background-width:10px;}
+
+#header
+{
+	width:880px;
+	height:20px;
+	margin:0px auto;
+	padding:20px 0px;
+	font-size:18px;
+	font-weight:bold;
+	border:0px solid black;
+	
+}
+
+#ha{width:250px;
+	border:0px solid black;
+	position:absolute;
+	margin:0px 0 0 320px;
+	float:left;
+	color:#999;
+	}
+
+#haha{width:150px;
+	border:0px solid red;
+	margin:-13px 0 0 780px;
+	}
+
+.guanbi{font-size:46px;
+	width:45px;
+	height:40px;
+	border:0px solid white;
+	line-height:40px;
+	float:left;
+	d`isplay:none;
+}
+
+
+.neihe{font-size:18px;
+	width:57px;
+	height:36px;
+	border:0px solid white;
+	line-height:36px;
+	float:left;
+	padding-left:-3px;
+	d`isplay:none;
+}
+
+#boss{width:600px;
+	height:500px;
+	border:0px solid red;
+	line-height:500px;
+	margin:0 auto;
+	
+}
+#nav{width:600px;
+	height:60px;
+	border:1px solid #999;
+	margin:0 auto;
+	background-color:lightblue;
+	
+}
+ul{list-style-type:none;
+	 margin:0px auto;
+	border:1px solid #999;
+	line-height:24px;
+	
+
+}
+li{float:left;height: 25px;line-height:24px;width: 180px;cursor:pointer;border:0px solid blue;margin:17px 2px;text-align:center;background-color:lightblue}
+#main{width:600px;
+	height:440px;
+	border:1px solid black;
+	margin:0 auto;
+	
+}
+#first_main{display:none}
+#second_main{display:none;postion:relative;height:420px;width:390px;border:0px solid black;margin:20px 100px 40px 100px;}
+#into img{display:black;postion:relative;height:440px;width:600px;border:0px solid black;}
+
+ul a{color:black}
+a{text-decoration:none;color:#999;}
